@@ -1,0 +1,7 @@
+.grid-row {float:none;clear:both;overflow:visible;}
+.grid-col {position:relative;float:left;}
+.grid-repeater {overflow:hidden;margin:0;padding:0;float:left;}
+.grid-break {clear:both;font-size:1px;height:1px;line-height:1px;margin:-1px 0;overflow:hidden;}
+ul.grid-row, ul.grid-col {display:block;width:auto;margin:0;padding:0;}
+ul.grid-col li {float:left;overflow:hidden;}
+ul.grid-row li {width:100%;}

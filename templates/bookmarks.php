@@ -1,0 +1,1 @@
+<?php kickpress_bookmark_form(); ?>

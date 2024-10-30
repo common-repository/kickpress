@@ -1,0 +1,671 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Our Daily Bread Ministries\n"
+"POT-Creation-Date: 2015-08-24 11:57+0700\n"
+"PO-Revision-Date: 2015-08-24 12:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../../xampp/htdocs/dev.rbc.org/wp-content/plugins/"
+"kickpress\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: elements/class-categories.php:44
+msgid "Add Categories:"
+msgstr ""
+
+#: elements/class-categories.php:45
+msgid "Comma separated list of new categories."
+msgstr ""
+
+#: elements/class-field-sort-direction.php:6 widgets/class-customizable.php:203
+msgid "Sort Field"
+msgstr ""
+
+#: elements/class-field-sort-direction.php:7 kickpress-api.php:546
+msgid "Ascending Order (A-Z)"
+msgstr ""
+
+#: elements/class-field-sort-direction.php:8 kickpress-api.php:547
+msgid "Descending Order (Z-A)"
+msgstr ""
+
+#: elements/class-post-terms.php:32 elements/class-related-posts.php:27
+msgid "Are you sure you want to remove this post?"
+msgstr ""
+
+#: elements/class-tags.php:43
+msgid "Add Tags"
+msgstr ""
+
+#: elements/class-tags.php:44
+msgid "Comma separated list of new tags."
+msgstr ""
+
+#: kickpress-api.php:402
+msgid "Enter Options"
+msgstr ""
+
+#: kickpress-api.php:406
+msgid "Name (Singular)"
+msgstr ""
+
+#: kickpress-api.php:409
+msgid ""
+"The caption that you want to show when refering to a single instance of this "
+"post type."
+msgstr ""
+
+#: kickpress-api.php:413
+msgid "Name (Menu)"
+msgstr ""
+
+#: kickpress-api.php:416
+msgid "The caption that you want to show in the admin menu."
+msgstr ""
+
+#: kickpress-api.php:420
+msgid "\"Add New\" Caption"
+msgstr ""
+
+#: kickpress-api.php:423 kickpress-api.php:430 kickpress-api.php:437
+msgid ""
+"The name that you want to show when creating a new post of this post type."
+msgstr ""
+
+#: kickpress-api.php:427
+msgid "\"Add New Item\" Caption"
+msgstr ""
+
+#: kickpress-api.php:434
+msgid "\"New Item\" Caption"
+msgstr ""
+
+#: kickpress-api.php:441
+msgid "\"Edit Item\" Caption"
+msgstr ""
+
+#: kickpress-api.php:444
+msgid ""
+"The caption that you want to show when editing a new post of this post type."
+msgstr ""
+
+#: kickpress-api.php:448
+msgid "\"View Item\" Caption"
+msgstr ""
+
+#: kickpress-api.php:451
+msgid "The caption that you want to link to a post of this post type."
+msgstr ""
+
+#: kickpress-api.php:455
+msgid "\"All Items\" Caption"
+msgstr ""
+
+#: kickpress-api.php:458
+msgid "The caption that you want to link to all posts of this post type."
+msgstr ""
+
+#: kickpress-api.php:462
+msgid "\"Search Items\" Caption"
+msgstr ""
+
+#: kickpress-api.php:465
+msgid "The caption that you want to search posts of this post type."
+msgstr ""
+
+#: kickpress-api.php:469
+msgid "\"Not Found\" Caption"
+msgstr ""
+
+#: kickpress-api.php:472
+msgid "The caption that you want to when no search results are found."
+msgstr ""
+
+#: kickpress-api.php:476
+msgid "\"Not Found in Trash\" Caption"
+msgstr ""
+
+#: kickpress-api.php:479
+msgid ""
+"The caption that you want to when no search results are found in the trash."
+msgstr ""
+
+#: kickpress-api.php:483
+msgid "Data Type"
+msgstr ""
+
+#: kickpress-api.php:488 kickpress-api.php:569 kickpress-api.php:581
+#: widgets/class-customizable.php:125
+msgid "None"
+msgstr ""
+
+#: kickpress-api.php:489
+msgid "People"
+msgstr ""
+
+#: kickpress-api.php:490
+msgid "Items"
+msgstr ""
+
+#: kickpress-api.php:491
+msgid "Locations"
+msgstr ""
+
+#: kickpress-api.php:492
+msgid "Events"
+msgstr ""
+
+#: kickpress-api.php:493
+msgid "Series"
+msgstr ""
+
+#: kickpress-api.php:495
+msgid "Determine what the meta type of this new post type is."
+msgstr ""
+
+#: kickpress-api.php:498
+msgid "Built In"
+msgstr ""
+
+#: kickpress-api.php:504
+msgid "Merge Base Fields"
+msgstr ""
+
+#: kickpress-api.php:508
+msgid "Include inherited fields from base post type in custom form."
+msgstr ""
+
+#: kickpress-api.php:511
+msgid "Alphabar"
+msgstr ""
+
+#: kickpress-api.php:517
+msgid "Category Toolbar"
+msgstr ""
+
+#: kickpress-api.php:523
+msgid "Scan"
+msgstr ""
+
+#: kickpress-api.php:529
+msgid "Selector"
+msgstr ""
+
+#: kickpress-api.php:535
+msgid "Default Sort Order"
+msgstr ""
+
+#: kickpress-api.php:541
+msgid "Default Sort Direction"
+msgstr ""
+
+#: kickpress-api.php:551
+msgid "Default View"
+msgstr ""
+
+#: kickpress-api.php:558
+msgid "Posts Per Page"
+msgstr ""
+
+#: kickpress-api.php:564
+msgid "Top Pagination Type"
+msgstr ""
+
+#: kickpress-api.php:570 kickpress-api.php:582
+#: widgets/class-customizable.php:125
+msgid "Standard"
+msgstr ""
+
+#: kickpress-api.php:571 kickpress-api.php:583
+#: widgets/class-customizable.php:125
+msgid "Previous/Next"
+msgstr ""
+
+#: kickpress-api.php:572
+msgid "Live"
+msgstr ""
+
+#: kickpress-api.php:576
+msgid "Bottom Pagination Type"
+msgstr ""
+
+#: kickpress-api.php:584 kickpress-pagination.php:250
+#: widgets/class-customizable.php:125 widgets/class-pagination.php:284
+#: widgets/class-pagination.php:306
+msgid "Load More"
+msgstr "और लोड करें"
+
+#: kickpress-api.php:588
+msgid "Public"
+msgstr ""
+
+#: kickpress-api.php:594
+msgid "Publicly Queryable"
+msgstr ""
+
+#: kickpress-api.php:600
+msgid "Hierarchical"
+msgstr ""
+
+#: kickpress-api.php:606
+msgid "Exclude From Search"
+msgstr ""
+
+#: kickpress-api.php:612
+msgid "Show Admin UI"
+msgstr ""
+
+#: kickpress-api.php:618
+msgid "Show in Admin Menu"
+msgstr ""
+
+#: kickpress-api.php:624
+msgid "Category Search Options"
+msgstr ""
+
+#: kickpress-api.php:628
+msgid "Determine how users can search individual categories."
+msgstr ""
+
+#: kickpress-api.php:1041
+msgid "Sorry, you do not have the permissions to perform this action."
+msgstr ""
+
+#: kickpress-api.php:1094
+msgid "The requested action is invalid."
+msgstr ""
+
+#: kickpress-api.php:1176
+msgid "Errors"
+msgstr ""
+
+#: kickpress-api.php:1387 kickpress-api.php:1395
+msgid "Term Removed"
+msgstr ""
+
+#: kickpress-api.php:1392 kickpress-api.php:1406
+msgid "Failed to Remove Term"
+msgstr ""
+
+#: kickpress-api.php:1403
+msgid "Term Added"
+msgstr ""
+
+#: kickpress-api.php:1530
+msgid "Bookmark Added"
+msgstr ""
+
+#: kickpress-api.php:1535
+msgid "Bookmark Removed"
+msgstr ""
+
+#: kickpress-api.php:1608
+msgid "Unknown login proxy."
+msgstr ""
+
+#: kickpress-api.php:1670
+msgid "Could not get facebook access token."
+msgstr ""
+
+#: kickpress-api.php:1971
+msgid "Please enter a password."
+msgstr ""
+
+#: kickpress-api.php:2345
+msgid "The information has been saved"
+msgstr ""
+
+#: kickpress-api.php:2529
+msgid "The information has been deleted"
+msgstr ""
+
+#: kickpress-api.php:2582
+msgid ""
+"Post not updated, local modified date is newer than remote modified date."
+msgstr ""
+
+#: kickpress-api.php:2596 kickpress-api.php:2838
+msgid "Post Deleted"
+msgstr ""
+
+#: kickpress-api.php:3596
+msgid "Comment Deleted"
+msgstr ""
+
+#: kickpress-api.php:3628
+msgid "Comment Created"
+msgstr ""
+
+#: kickpress-api.php:3636
+msgid "Comment Updated"
+msgstr ""
+
+#: kickpress-api.php:3645
+msgid "Bookmark Deleted"
+msgstr ""
+
+#: kickpress-api.php:3655
+msgid "Bookmark Created"
+msgstr ""
+
+#: kickpress-api.php:3669
+msgid "Note Deleted"
+msgstr ""
+
+#: kickpress-api.php:3687
+msgid "Note Created"
+msgstr ""
+
+#: kickpress-api.php:3705
+msgid "Note Updated"
+msgstr ""
+
+#: kickpress-api.php:3878
+msgid "Submit"
+msgstr ""
+
+#: kickpress-api.php:3888
+msgid "Delete"
+msgstr ""
+
+#: kickpress-api.php:3895 kickpress-api.php:3902
+msgid "Close"
+msgstr ""
+
+#: kickpress-api.php:3957 widgets/class-loginform.php:27
+msgid "Username"
+msgstr ""
+
+#: kickpress-api.php:3958 widgets/class-loginform.php:31
+msgid "Password"
+msgstr ""
+
+#: kickpress-api.php:3959
+msgid "Remember Me"
+msgstr ""
+
+#: kickpress-api.php:3960
+msgid "Log In"
+msgstr ""
+
+#: kickpress-api.php:3976
+msgid "You don't have permission to do what you have requested."
+msgstr ""
+
+#: kickpress-bookmarks.php:498
+msgid "No bookmarks were found"
+msgstr ""
+
+#: kickpress-bookmarks.php:549
+msgid "No notes were found"
+msgstr ""
+
+#: kickpress-bookmarks.php:569
+msgid "Edit Note"
+msgstr ""
+
+#: kickpress-bookmarks.php:578
+msgid "Remove Note"
+msgstr ""
+
+#: kickpress-bookmarks.php:683
+msgid "No tasks were found"
+msgstr ""
+
+#: kickpress-capabilities.php:500
+msgid "Save Capabilities"
+msgstr ""
+
+#: kickpress-capabilities.php:594
+msgid "Extra Roles"
+msgstr ""
+
+#: kickpress-media-functions-deprecated.php:20
+#, php-format
+msgid "File '%s' doesn't exist?"
+msgstr ""
+
+#: kickpress-media-functions-deprecated.php:23
+msgid "The GD image library is not installed."
+msgstr ""
+
+#: kickpress-media-functions-deprecated.php:30
+#, php-format
+msgid "File '%s' is not an image."
+msgstr ""
+
+#: kickpress-pagination.php:95
+msgid "Post navigation"
+msgstr ""
+
+#: kickpress-pagination.php:96
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: kickpress-pagination.php:97
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: kickpress-pagination.php:108 widgets/class-pagination.php:138
+msgid "Results"
+msgstr ""
+
+#: kickpress-post-types.php:32
+msgid "Post Types"
+msgstr ""
+
+#: kickpress-post-types.php:51
+msgid "Post Type Categories"
+msgstr ""
+
+#: kickpress-post-types.php:222 kickpress-post-types.php:251
+msgid " Category"
+msgstr ""
+
+#: kickpress-post-types.php:265
+msgid "Languages"
+msgstr ""
+
+#: kickpress-post-types.php:266
+msgid "Language"
+msgstr ""
+
+#: kickpress-post-types.php:267
+msgid "Search Languages"
+msgstr ""
+
+#: kickpress-post-types.php:268
+msgid "All Languages"
+msgstr ""
+
+#: kickpress-post-types.php:269
+msgid "Parent Language"
+msgstr ""
+
+#: kickpress-post-types.php:270
+msgid "Parent Language:"
+msgstr ""
+
+#: kickpress-post-types.php:271
+msgid "Edit Language"
+msgstr ""
+
+#: kickpress-post-types.php:272
+msgid "Update Language"
+msgstr ""
+
+#: kickpress-post-types.php:273
+msgid "Add New Language"
+msgstr ""
+
+#: kickpress-post-types.php:274
+msgid "New Language Name"
+msgstr ""
+
+#: kickpress-post-types.php:286
+msgid "Countries"
+msgstr ""
+
+#: kickpress-post-types.php:287
+msgid "Country"
+msgstr ""
+
+#: kickpress-post-types.php:288
+msgid "Search Countries"
+msgstr ""
+
+#: kickpress-post-types.php:289
+msgid "All Countries"
+msgstr ""
+
+#: kickpress-post-types.php:290
+msgid "Parent Country"
+msgstr ""
+
+#: kickpress-post-types.php:291
+msgid "Parent Country:"
+msgstr ""
+
+#: kickpress-post-types.php:292
+msgid "Edit Country"
+msgstr ""
+
+#: kickpress-post-types.php:293
+msgid "Update Country"
+msgstr ""
+
+#: kickpress-post-types.php:294
+msgid "Add New Country"
+msgstr ""
+
+#: kickpress-post-types.php:295
+msgid "New Country Name"
+msgstr ""
+
+#: kickpress-post-types.php:533 kickpress-post-types.php:538
+#: kickpress-post-types.php:543 kickpress-post-types.php:544
+msgid "Attributes"
+msgstr ""
+
+#: kickpress-relationships.php:100
+msgid "The selected relationship could not be found."
+msgstr ""
+
+#: kickpress-relationships.php:209
+msgid "The selected post could not be found."
+msgstr ""
+
+#: kickpress-relationships.php:220
+msgid "The selected post type is invalid for this relationship."
+msgstr ""
+
+#: widgets/class-alphabar.php:145 widgets/class-viewbar.php:51
+msgid "Post Type:"
+msgstr ""
+
+#: widgets/class-customizable.php:128
+msgid "Post Type"
+msgstr ""
+
+#: widgets/class-customizable.php:141
+msgid "Title"
+msgstr ""
+
+#: widgets/class-customizable.php:146
+msgid "Show Title"
+msgstr ""
+
+#: widgets/class-customizable.php:149
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/class-customizable.php:153
+msgid "Post ID"
+msgstr ""
+
+#: widgets/class-customizable.php:157
+msgid "View"
+msgstr ""
+
+#: widgets/class-customizable.php:161
+msgid "Categories"
+msgstr ""
+
+#: widgets/class-customizable.php:165
+msgid "Number of posts to show"
+msgstr ""
+
+#: widgets/class-customizable.php:169
+msgid "Top Pagination"
+msgstr ""
+
+#: widgets/class-customizable.php:180
+msgid "Bottom Pagination"
+msgstr ""
+
+#: widgets/class-customizable.php:192
+msgid "Show Thumbnail"
+msgstr ""
+
+#: widgets/class-customizable.php:195
+msgid "Thumb Size"
+msgstr ""
+
+#: widgets/class-customizable.php:199
+msgid "Sort Direction"
+msgstr ""
+
+#: widgets/class-customizable.php:207
+msgid "Callback Action"
+msgstr ""
+
+#: widgets/class-loginform.php:47
+msgid "Register"
+msgstr ""
+
+#: widgets/class-loginform.php:49
+msgid "Lost your password?"
+msgstr ""
+
+#: widgets/class-pagination.php:38
+msgid "Pagination Type:"
+msgstr ""
+
+#: widgets/class-pagination.php:50
+msgid "Maximum Page Links:"
+msgstr ""
+
+#: widgets/class-pagination.php:56
+msgid "Reload Target:"
+msgstr ""
+
+#: widgets/class-pagination.php:61
+msgid "Reload Type:"
+msgstr ""
+
+#: widgets/class-pagination.php:165 widgets/class-pagination.php:168
+msgid "First"
+msgstr ""
+
+#: widgets/class-pagination.php:173 widgets/class-pagination.php:176
+msgid "Previous"
+msgstr ""
+
+#: widgets/class-pagination.php:225 widgets/class-pagination.php:227
+msgid "Next"
+msgstr ""
+
+#: widgets/class-pagination.php:237 widgets/class-pagination.php:239
+msgid "Last"
+msgstr ""
+
+#: widgets/class-termsbar.php:103
+msgid "Taxonomy:"
+msgstr ""

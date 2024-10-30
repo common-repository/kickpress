@@ -1,0 +1,695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kickpress\n"
+"POT-Creation-Date: 2015-02-02 13:55+0700\n"
+"PO-Revision-Date: 2015-02-02 13:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: my_MM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\dev.rbc.org\\wp-content\\plugins"
+"\\kickpress\n"
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-categories.php:44
+msgid "Add Categories:"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-categories.php:45
+msgid "Comma separated list of new categories."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-field-sort-direction.php:6
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:203
+msgid "Sort Field"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-field-sort-direction.php:7
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:532
+msgid "Ascending Order (A-Z)"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-field-sort-direction.php:8
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:533
+msgid "Descending Order (Z-A)"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-post-terms.php:32
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-related-posts.php:27
+msgid "Are you sure you want to remove this post?"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-tags.php:43
+msgid "Add Tags"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/elements/class-tags.php:44
+msgid "Comma separated list of new tags."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:389
+msgid "Enter Options"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:393
+msgid "Name (Singular)"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:396
+msgid ""
+"The caption that you want to show when refering to a single instance of this "
+"post type."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:400
+msgid "Name (Menu)"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:403
+msgid "The caption that you want to show in the admin menu."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:407
+msgid "\"Add New\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:410
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:417
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:424
+msgid ""
+"The name that you want to show when creating a new post of this post type."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:414
+msgid "\"Add New Item\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:421
+msgid "\"New Item\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:428
+msgid "\"Edit Item\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:431
+msgid ""
+"The caption that you want to show when editing a new post of this post type."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:435
+msgid "\"View Item\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:438
+msgid "The caption that you want to link to a post of this post type."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:442
+msgid "\"All Items\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:445
+msgid "The caption that you want to link to all posts of this post type."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:449
+msgid "\"Search Items\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:452
+msgid "The caption that you want to search posts of this post type."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:456
+msgid "\"Not Found\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:459
+msgid "The caption that you want to when no search results are found."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:463
+msgid "\"Not Found in Trash\" Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:466
+msgid ""
+"The caption that you want to when no search results are found in the trash."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:470
+msgid "Data Type"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:475
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:555
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:567
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:125
+msgid "None"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:476
+msgid "People"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:477
+msgid "Items"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:478
+msgid "Locations"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:479
+msgid "Events"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:481
+msgid "Determine what the meta type of this new post type is."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:484
+msgid "Built In"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:490
+msgid "Merge Base Fields"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:494
+msgid "Include inherited fields from base post type in custom form."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:497
+msgid "Alphabar"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:503
+msgid "Category Toolbar"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:509
+msgid "Scan"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:515
+msgid "Selector"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:521
+msgid "Default Sort Order"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:527
+msgid "Default Sort Direction"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:537
+msgid "Default View"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:544
+msgid "Posts Per Page"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:550
+msgid "Top Pagination Type"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:556
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:568
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:125
+msgid "Standard"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:557
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:569
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:125
+msgid "Previous/Next"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:558
+msgid "Live"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:562
+msgid "Bottom Pagination Type"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:570
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-pagination.php:250
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:125
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:284
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:306
+msgid "Load More"
+msgstr "ပိုမိုရယူရန္"
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:574
+msgid "Public"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:580
+msgid "Publicly Queryable"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:586
+msgid "Hierarchical"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:592
+msgid "Exclude From Search"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:598
+msgid "Show Admin UI"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:604
+msgid "Show in Admin Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:610
+msgid "Category Search Options"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:614
+msgid "Determine how users can search individual categories."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1024
+msgid "Sorry, you do not have the permissions to perform this action."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1055
+msgid "The requested action is invalid."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1137
+msgid "Errors"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1348
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1356
+msgid "Term Removed"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1353
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1367
+msgid "Failed to Remove Term"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1364
+msgid "Term Added"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1491
+msgid "Bookmark Added"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1496
+msgid "Bookmark Removed"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1557
+msgid "Unknown login proxy."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1619
+msgid "Could not get facebook access token."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:1925
+msgid "Please enter a password."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:2299
+msgid "The information has been saved"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:2483
+msgid "The information has been deleted"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:2536
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:2792
+msgid ""
+"Post not updated, local modified date is newer than remote modified date."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:2550
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:2804
+msgid "Post Deleted"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3485
+msgid "Comment Deleted"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3517
+msgid "Comment Created"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3525
+msgid "Comment Updated"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3534
+msgid "Bookmark Deleted"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3544
+msgid "Bookmark Created"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3558
+msgid "Note Deleted"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3576
+msgid "Note Created"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3594
+msgid "Note Updated"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3767
+msgid "Submit"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3777
+msgid "Delete"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3784
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3791
+msgid "Close"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3846
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-loginform.php:27
+msgid "Username"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3847
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-loginform.php:31
+msgid "Password"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3848
+msgid "Remember Me"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3849
+msgid "Log In"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-api.php:3865
+msgid "You don't have permission to do what you have requested."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-bookmarks.php:459
+msgid "No bookmarks were found"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-bookmarks.php:510
+msgid "No notes were found"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-bookmarks.php:530
+msgid "Edit Note"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-bookmarks.php:539
+msgid "Remove Note"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-bookmarks.php:644
+msgid "No tasks were found"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-capabilities.php:441
+msgid "Save Capabilities"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-capabilities.php:475
+msgid "Extra Roles"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-media-functions-deprecated.php:20
+#, php-format
+msgid "File '%s' doesn't exist?"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-media-functions-deprecated.php:23
+msgid "The GD image library is not installed."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-media-functions-deprecated.php:30
+#, php-format
+msgid "File '%s' is not an image."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-pagination.php:95
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-pagination.php:96
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-pagination.php:97
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-pagination.php:108
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:138
+msgid "Results"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:32
+msgid "Post Types"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:51
+msgid "Post Type Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:222
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:251
+msgid " Category"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:265
+msgid "Languages"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:266
+msgid "Language"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:267
+msgid "Search Languages"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:268
+msgid "All Languages"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:269
+msgid "Parent Language"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:270
+msgid "Parent Language:"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:271
+msgid "Edit Language"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:272
+msgid "Update Language"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:273
+msgid "Add New Language"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:274
+msgid "New Language Name"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:286
+msgid "Countries"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:287
+msgid "Country"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:288
+msgid "Search Countries"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:289
+msgid "All Countries"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:290
+msgid "Parent Country"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:291
+msgid "Parent Country:"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:292
+msgid "Edit Country"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:293
+msgid "Update Country"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:294
+msgid "Add New Country"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:295
+msgid "New Country Name"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:533
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:538
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:543
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-post-types.php:544
+msgid "Attributes"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-relationships.php:100
+msgid "The selected relationship could not be found."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-relationships.php:209
+msgid "The selected post could not be found."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/kickpress-relationships.php:220
+msgid "The selected post type is invalid for this relationship."
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-alphabar.php:109
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-viewbar.php:51
+msgid "Post Type:"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:128
+msgid "Post Type"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:141
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:146
+msgid "Show Title"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:149
+msgid "Excerpt Length"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:153
+msgid "Post ID"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:157
+msgid "View"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:161
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:165
+msgid "Number of posts to show"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:169
+msgid "Top Pagination"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:180
+msgid "Bottom Pagination"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:192
+msgid "Show Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:195
+msgid "Thumb Size"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:199
+msgid "Sort Direction"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-customizable.php:207
+msgid "Callback Action"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-loginform.php:47
+msgid "Register"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-loginform.php:49
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:38
+msgid "Pagination Type:"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:50
+msgid "Maximum Page Links:"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:56
+msgid "Reload Target:"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:61
+msgid "Reload Type:"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:165
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:168
+msgid "First"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:173
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:176
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:225
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:227
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:237
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-pagination.php:239
+msgid "Last"
+msgstr ""
+
+#: C:\xampp\htdocs\dev.rbc.org\wp-content\plugins\kickpress/widgets/class-termsbar.php:103
+msgid "Taxonomy:"
+msgstr ""
